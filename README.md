@@ -1,0 +1,3 @@
+Microservice-Based Task Manager
+
+Developed a scalable task management application using Spring Boot, React, MySQL, Material-UI, Tailwind CSS, and Redux Toolkit. Implemented microservices architecture with Eureka Server for service discovery and Eureka Client for dynamic registration and communication between services, enhanced by OpenFeignClient for simplified inter-service communication. This setup facilitated efficient service discovery, load balancing, and resilience. Secured the application with JWT authentication and Spring Security. Key features include task creation, assignment, updating, deletion, and filtering. Utilized Postman for comprehensive API testing
